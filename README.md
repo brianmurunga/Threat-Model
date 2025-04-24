@@ -1,6 +1,7 @@
 # 🛡️ Transaction Web App Threat Model
 
 This project is a **simulated threat model** of a basic web application inspired by M-Pesa. It is built using the [Microsoft Threat Modeling Tool (TMT)](https://aka.ms/tmt).
+![Threat Model Diagram](assets/diagram.png)
 
 > This hands-on project applies the STRIDE methodology to analyze a mobile payment system architecture.
 
