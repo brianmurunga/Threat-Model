@@ -55,7 +55,9 @@ This project is a **simulated threat model** of a basic web application inspired
 ## 👤 Author
 
 **c0mmand3r**  
-🔗 Connect with me: [LinkedIn](#) | [Medium](#) | [Twitter](#)
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/brian-murunga-a0467a263/) | [Medium](https://medium.com/@brian_murunga) | [Twitter](https://x.com/brian_murunga1)
+
+
 
 ---
 
